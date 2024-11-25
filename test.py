@@ -1,1 +1,1 @@
-print"Just do it kiddo Pambu Edit file")
+prin"Just do it kiddo Pambu Edit file")
