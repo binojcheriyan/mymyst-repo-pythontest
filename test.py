@@ -1,1 +1,1 @@
-prin"Just do it kiddo Pambu Edit file")
+print("Just do it kiddo Pambu Edit file")
